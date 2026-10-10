@@ -226,4 +226,4 @@ Empire of the Ants is a complete free version with all features and updates incl
 Ready to embark on your adventure? Download Empire of the Ants today and lead your colony to victory!
 
 ---
-**Last updated:** 2026-10-09 20:42:47 UTC
+**Last updated:** 2026-10-10 00:34:37 UTC
